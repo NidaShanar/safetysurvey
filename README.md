@@ -1,3 +1,3 @@
 # Safety Survey
 
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/safetysurvey)
+[Edit here](https://diy-pwa.dev/~/gh/NidaShanar/safetysurvey)
